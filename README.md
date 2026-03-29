@@ -55,19 +55,3 @@ Ajoute ces deux liens à côté de ton email et téléphone :
 - Conception d'une API REST C# assurant la synchronisation client-serveur des actions de jeu
 - Optimisation des requêtes PostgreSQL et déploiement continu en méthode Agile/Scrum
 
----
-
-## 💡 Conseils supplémentaires
-
-1. **Accroche** : Envisage d'ajouter une courte phrase d'accroche (2-3 lignes) juste sous ton titre, 
-   par exemple :
-   > "Développeur full stack avec 3 ans d'expérience professionnelle, je conçois des applications 
-   > web et mobiles robustes de l'interface jusqu'à la base de données. À la recherche d'une 
-   > alternance pour mettre mes compétences React, Vue et Django au service d'un projet ambitieux."
-
-2. **Langue** : Corrige le niveau d'anglais — mets **A2** et non B2 sur ton CV. Un recruteur peut tester ton niveau en entretien, mieux vaut être honnête.
-
-3. **Compétences** : Retire les soft skills trop génériques (rigueur, autonomie) 
-   et remplace par des certifications ou formations complémentaires si tu en as.
-
-3. **Ordre des projets** : Mets Patronus en premier — c'est le plus récent et le plus complet.
