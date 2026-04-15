@@ -4,7 +4,7 @@
 🎓 Bachelor Concepteur Développeur Full Stack @ ITIC Paris
 📬 andremazia@gmail.com · [LinkedIn](https://www.linkedin.com/in/andre-ikoto/)
 
----
+--- 
 
 ## 🚀 Ce que je fais
 
