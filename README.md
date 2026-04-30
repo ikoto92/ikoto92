@@ -1,5 +1,6 @@
 # Salut, moi c'est André 👋                            
 
+
 **Développeur Full Stack** en alternance · Vitry-sur-Seine, France  
 🎓 Bachelor Concepteur Développeur Full Stack @ ITIC Paris
 📬 andremazia@gmail.com · [LinkedIn](https://www.linkedin.com/in/andre-ikoto/)
