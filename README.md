@@ -11,6 +11,8 @@
 Je conçois et développe des applications web et mobiles de A à Z — de l'interface utilisateur jusqu'à la base de données.  
 J'aime les projets qui ont un impact concret, et je m'adapte vite à de nouveaux environnements et technos.
 
+
+
 ---
 
 ## 🛠️ Stack technique
