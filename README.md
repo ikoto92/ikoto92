@@ -18,6 +18,7 @@ J'aime les projets qui ont un impact concret, et je m'adapte vite à de nouveaux
 **Frontend**
 `React` `Nuxt 3 / Vue 3` `TypeScript` `TailwindCSS` `Angular` `React Native`
 
+
 **Backend**
 `Python (Django)` `Node.js / NestJS` `C# ASP.NET Core` `PHP Symfony` `Go` `Java Spring`
 
